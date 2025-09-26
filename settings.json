@@ -1,0 +1,12 @@
+{
+  "title": "[bold red]Демонстрация движка[/bold red]",
+  "style_of_title": "white",
+  "description": "[bold purple]Описание этой замечательной новеллы[/bold purple]",
+  "version": "1.0",
+  "author": "Ваше имя",
+  "autro_title": "Спасибо, что посмотрели!",
+  "autro_description": "Данная демонстрация показывает, что можно реализовать в движке.",
+  "style_of_autro_title": "white",
+  "localization": "ru",
+  "start_file": "src/Звуки.txt"
+}

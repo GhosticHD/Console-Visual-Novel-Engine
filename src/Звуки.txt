@@ -1,0 +1,15 @@
+![italic]Звуки пистолета[/italic]
+?img/Пистолет.jpg
+:0.05
+&50
+@[bold italic orange]Пиф-паф![/bold italic orange].
+;
+
+![italic]Звуки птицы[/italic]
+?img/Птица.jpg
+:0.05
+&50
+@[bold italic green]Чирик-чирик![/bold italic green].
+;
+
+>src/math/Математическая задачка.txt

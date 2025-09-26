@@ -1,0 +1,6 @@
+!Система
+:0.05
+@[bold italic green]Правильный ответ![/bold italic green].
+;
+
+%
