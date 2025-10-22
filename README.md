@@ -4,14 +4,14 @@
 ![GitHub](https://img.shields.io/github/license/GhosticHD/Console-Visual-Novel-Engine)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GhosticHD/Console-Visual-Novel-Engine)
 
-# [🇷🇺]
+# [RU]
 
 Движок для создания визуальных новелл в консоли
 
 ## Документация
 Пользовательскую документацию можно получить по [этой ссылке](./docs/ru/index.md).
 
-# [🇬🇧]
+# [ENG]
 A console-based visual novel engine
 
 ## Documentation
